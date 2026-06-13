@@ -130,4 +130,4 @@ South East European University
 
 Faculty of Contemporary Sciences and Technologies
 
-Service Oriented Architecture – Final Project
+Service Oriented Architecture (SOA) – Final Project
