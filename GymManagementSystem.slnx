@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="GymManagementAPI/GymManagementAPI.csproj" />
+  <Project Path="GymManagementTests/GymManagementTests.csproj" Id="cb585ff5-588d-4d94-a3e6-53dc4f333eee" />
+</Solution>
